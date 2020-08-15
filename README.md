@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋, je suis Germain Michaud</h1>
 <h3 align="center">Un développeur Front-End passionné</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gm-webdesign" alt="gm-webdesign" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gm-webdesign&style=flat-square&label=PROFILE+VIEWS" alt="gm-webdesign" /> </p>
 
 - 🔭 Je travail actuellement sur une application web **Bien Être-Animal**
 
